@@ -25,14 +25,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../globalWarming" />
+    <property name="last_opened_file_path" value="$USER_HOME$/globalWarming" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,6 +48,8 @@
       <workItem from="1585658317288" duration="1498000" />
       <workItem from="1586843252573" duration="4157000" />
       <workItem from="1586873749242" duration="2165000" />
+      <workItem from="1586942155109" duration="4265000" />
+      <workItem from="1587113378762" duration="3768000" />
     </task>
     <servers />
   </component>
@@ -55,17 +57,24 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585658343864">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="272" key="FileChooserDialogImpl" timestamp="1586954180924">
+      <screen x="0" y="0" width="1920" height="1030" />
     </state>
+    <state x="740" y="272" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1586954180924" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585658343864" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585225914868">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="461" y="108" key="SettingsEditor" timestamp="1586942514071">
+      <screen x="0" y="0" width="1920" height="1030" />
     </state>
+    <state x="461" y="108" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1586942514071" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585225914868" />
-    <state x="336" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1586873762759">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="336" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1587113406332">
+      <screen x="0" y="0" width="1920" height="1030" />
     </state>
+    <state x="336" y="327" key="com.intellij.ide.util.TipDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1587113406332" />
     <state x="336" y="330" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586873762759" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1586956401739">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1030@0.0.1920.1030" timestamp="1586956401739" />
   </component>
 </project>

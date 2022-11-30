@@ -17,6 +17,13 @@ body{
     background-color: #4a4a4a;
 }
 
+.container {
+    height: 100%;
+    border: #fff solid 1px;
+    margin: 0px 300px 0px 10px;
+    padding: 5px;
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -64,7 +71,7 @@ a {
     transition: background .5s; 
     vertical-align: middle;
 
-    border: solid 1px yellow;
+    /*border: solid 1px yellow;*/
   }
 
 footer {

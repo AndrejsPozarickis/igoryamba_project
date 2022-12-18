@@ -17,11 +17,31 @@ body{
     background-color: #4a4a4a;
 }
 
+/*articles*/
+#content {
+    list-style-type: none;
+}
+
+.article img {
+    float: left;
+}
+
+.article h2 {
+
+}
+
+.article p {
+
+}
+
+/*--------------------------*/
+
 .container {
     height: 100%;
     border: #fff solid 1px;
     margin: 0px 300px 0px 10px;
     padding: 5px;
+    display: list-item;
 }
 
 a {
